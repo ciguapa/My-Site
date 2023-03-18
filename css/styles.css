@@ -54,7 +54,8 @@ span{
 }
 .talk-about-me{
     text-align: center;
-    margin: auto 30% auto 30%;
+    width: 35%;
+    margin: auto;
 }
 .skill-row{
     width: 50%;
@@ -79,10 +80,14 @@ span{
     margin-bottom: 0;
     padding-bottom: 50px;  
 }
+.middle-container{
+    padding-top: 90px;
+}
 .mypic{
     height: 110px;
    border-radius: 100px ;
    border:3px solid rgb(188, 218, 219);
+ 
 }
 .skill-img{
     width: 25%;
