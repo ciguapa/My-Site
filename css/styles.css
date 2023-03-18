@@ -2,20 +2,27 @@
 body{
     background-color: #defffe;
     margin: 0;
+    font-size: 1.5em;
     
    
 }
 h1{
-    font-size: 40px;
-    margin-top: 0;
+    font-size: 5rem;
+    margin: 50px auto 1px auto;
     padding-top: 90px;
     font-family: 'Stalemate', cursive;
     color:#136185;
    
 }
+h2{
+    font-family: 'Manrope', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
 p{
     color:#0e2b38;
 font-family: 'Manrope', sans-serif;
+font-size: 1.4rem;
 }  
 
 .top{
