@@ -118,7 +118,7 @@ span{
 }
 .cont{
     font-size: 1.2rem;
-    
+
   
     
 }
@@ -145,7 +145,7 @@ footer{
     font-size: 10px;
 text-align: center;
 background-color:#66BFBF;}
-.credit{
+.copyright{
     font-size: 13px;
     color:#EAF6F6;
     word-spacing: normal;
@@ -156,4 +156,10 @@ background-color:#66BFBF;}
     color: #11999E;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:#EAF6F6;
 }
