@@ -34,6 +34,8 @@ p{
     color:#0e2b38;
 font-family: 'Manrope', sans-serif;
 font-size: 1.4rem;
+line-height: 2;  
+
 
 }  
 
@@ -61,8 +63,7 @@ span{
     width: 50%;
     margin: 100px auto 100px auto;
     text-align: left;
-    line-height: 2;  
-
+    
 }
 
 .up-cloud{
@@ -109,11 +110,23 @@ span{
     margin-bottom: 6rem;
     border-color: #EAF6F6;
 }
+.contact-me{
+    width: 50%;
+    margin: auto;
+    font-size: 1rem;
+    font-weight: 800;
+}
+.cont{
+    font-size: 1.2rem;
+    
+  
+    
+}
 .btn {
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 28px;
-    font-family: Arial;
+    font-family:'Poppins', sans-serif;
     color: #ffffff;
     font-size: 22px;
     background: #11999E;
